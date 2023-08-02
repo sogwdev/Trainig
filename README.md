@@ -1,0 +1,2 @@
+# Trainig
+GitHub練習
